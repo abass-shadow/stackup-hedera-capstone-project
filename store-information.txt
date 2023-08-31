@@ -1,0 +1,4 @@
+smart contract address: 
+fungible token address: 
+NFT address: 
+topic id: 
